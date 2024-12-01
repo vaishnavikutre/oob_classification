@@ -1,38 +1,38 @@
 # Yolov8 model for inbody-outbody classification
 
 
-Installation:
-create venv (python) - .venv
-ultralytics
-uninstall opencv-python
-install it again
-install roboflow
-download dataset(create dataset as required...)
+## Installation:
+- create venv (python) - .venv
+- ultralytics
+- uninstall opencv-python
+- install it again
+- install roboflow
+- download dataset(create dataset as required...)
 
-/content/data/
+- /content/data/
 
-train/
-asian/
--images/
-latino/
--images/
-white/
--images/
-.....
-/content/data/
+- train/
+- asian/
+- -images/
+- latino/
+- -images/
+- white/
+- -images/
+- .....
+- /content/data/
 
-test/
-asian/
--images/
-latino/
--images/
-white/
--images/
+- test/
+- asian/
+- -images/
+- latino/
+- -images/
+- white/
+- -images/
 
-train the model
-convert to torchscript
-make sure cuda is compatible(pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121 )
-run the inference
+- train the model
+- convert to torchscript
+- make sure cuda is compatible(pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121 )
+- run the inference
 
 ## To run the inference script:
 ```
