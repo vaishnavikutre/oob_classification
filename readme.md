@@ -46,3 +46,4 @@ python C:\company\Yolov8classification\roboflow\scripts\torchscript_inference.py
 - https://github.com/taifyang/yolo-inference/blob/main/python/backends/OpenCV/yolo_opencv.py
 - https://docs.ultralytics.com/tasks/classify/#how-do-i-validate-a-trained-yolo11-classification-model
 - https://www.kaggle.com/datasets/activsurgical/oob-dataset?select=OP4-out-8.mp4
+- https://www.youtube.com/watch?v=tlu5e0TxSzo&t=190s
