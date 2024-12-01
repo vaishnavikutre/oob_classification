@@ -1,0 +1,10 @@
+>git init 
+>git add . 
+>git commit -m "initial commit"
+>git config --global user.email "kutrevaishnavi@gmail.com"
+>git config --global user.name "vaishnavikutre"
+>git commit -m "initial commit"
+>git status
+>git branch -M main
+>git remote add origin https://github.com/vaishnavikutre/oob_classification.git
+>git push -u origin main
